@@ -101,7 +101,7 @@
 // Fans
 //
 #define CONTROLLER_FAN_PIN                  PD6   // FAN
-#define E1_AUTO_FAN_PIN                    PG13  // FAN
+#define E0_AUTO_FAN_PIN                    PG13  // FAN
 #define FAN_PIN                            PG14  // FAN
 
 //
